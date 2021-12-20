@@ -23,11 +23,11 @@
                     <table id="myTable" class="table table-borded table-stripped">
                         <thead>
                             <tr>
-                                <th >ID</th>
+                                <th >#</th>
                                 <th >Fullname</th>
                                 <th >Departement</th>
                                 <th >hired</th>
-                                <th ></th>
+                                <th >ffffff</th>
 
                             </tr>
                         </thead>
