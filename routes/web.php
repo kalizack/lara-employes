@@ -21,4 +21,6 @@ Route::prefix('admin')->middleware('auth')->group(function (){
     Route::get('/home', function () {
         return view('home');
     });
+    
+  Route::resource('employes','EmployesController');
 });
